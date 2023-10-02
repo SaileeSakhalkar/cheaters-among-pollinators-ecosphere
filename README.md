@@ -10,3 +10,5 @@ Data and R scripts used for Sakhalkar et al 2023 Ecosphere
 - interaction network.R : generates circular networks
 - triplotfunction.R : function for triplot generation
 
+## Note: The images generated in R were post-processed in Inkscape to enhance their visual quality without altering their original content or integrity.
+Drawings used in Fig.1 of the manuscript were made by Sailee P. Sakhalkar.
